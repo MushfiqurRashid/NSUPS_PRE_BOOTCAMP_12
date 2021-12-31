@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/cmake-build-debug/CMakeFiles/Pre_Bootcamp_1.dir
+F:/Pre Bootcamp 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

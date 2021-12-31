@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/M - The Smallest Pair/cmake-build-debug/CMakeFiles/M___The_Smallest_Pair.dir
+F:/Pre Bootcamp 1/M - The Smallest Pair/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/M - The Smallest Pair/cmake-build-debug/CMakeFiles/rebuild_cache.dir

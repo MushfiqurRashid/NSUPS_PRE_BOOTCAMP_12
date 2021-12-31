@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/ Number G flag/cmake-build-debug/CMakeFiles/_Number_G_flag.dir
+F:/Pre Bootcamp 1/ Number G flag/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/ Number G flag/cmake-build-debug/CMakeFiles/rebuild_cache.dir

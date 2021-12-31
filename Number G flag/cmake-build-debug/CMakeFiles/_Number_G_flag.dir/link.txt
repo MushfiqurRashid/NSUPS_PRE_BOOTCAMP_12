@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\_Number_G_flag.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\_Number_G_flag.dir/objects.a @CMakeFiles\_Number_G_flag.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\_Number_G_flag.dir/objects.a -Wl,--no-whole-archive -o _Number_G_flag.exe -Wl,--out-implib,lib_Number_G_flag.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\_Number_G_flag.dir\linklibs.rsp

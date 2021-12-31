@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/J - Nearly Lucky Number/cmake-build-debug/CMakeFiles/J___Nearly_Lucky_Number.dir
+F:/Pre Bootcamp 1/J - Nearly Lucky Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/J - Nearly Lucky Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

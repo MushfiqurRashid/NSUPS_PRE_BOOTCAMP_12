@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/Clion/U - Reverse The Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Pre Bootcamp 1/Clion/U - Reverse The Number/cmake-build-debug/CMakeFiles/U___Reverse_The_Number.dir
+F:/Pre Bootcamp 1/Clion/U - Reverse The Number/cmake-build-debug/CMakeFiles/edit_cache.dir

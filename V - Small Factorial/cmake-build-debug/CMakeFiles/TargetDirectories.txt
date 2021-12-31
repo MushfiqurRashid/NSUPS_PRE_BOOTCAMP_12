@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/Clion/V - Small Factorial/cmake-build-debug/CMakeFiles/V___Small_Factorial.dir
+F:/Pre Bootcamp 1/Clion/V - Small Factorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/Clion/V - Small Factorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

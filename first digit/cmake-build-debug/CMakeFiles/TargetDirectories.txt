@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/Clion/first digit/cmake-build-debug/CMakeFiles/first_digit.dir
+F:/Pre Bootcamp 1/Clion/first digit/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/Clion/first digit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

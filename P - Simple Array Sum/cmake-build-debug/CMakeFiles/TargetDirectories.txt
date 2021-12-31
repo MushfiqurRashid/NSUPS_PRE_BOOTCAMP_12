@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/Clion/P - Simple Array Sum/cmake-build-debug/CMakeFiles/P___Simple_Array_Sum.dir
+F:/Pre Bootcamp 1/Clion/P - Simple Array Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/Clion/P - Simple Array Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

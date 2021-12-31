@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\M___The_Smallest_Pair.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\M___The_Smallest_Pair.dir/objects.a @CMakeFiles\M___The_Smallest_Pair.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\M___The_Smallest_Pair.dir/objects.a -Wl,--no-whole-archive -o M___The_Smallest_Pair.exe -Wl,--out-implib,libM___The_Smallest_Pair.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\M___The_Smallest_Pair.dir\linklibs.rsp

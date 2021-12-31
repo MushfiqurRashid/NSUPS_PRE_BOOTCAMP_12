@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/K - Harmony/cmake-build-debug/CMakeFiles/K___Harmony.dir
+F:/Pre Bootcamp 1/K - Harmony/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/K - Harmony/cmake-build-debug/CMakeFiles/rebuild_cache.dir

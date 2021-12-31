@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LAST_digit.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\LAST_digit.dir/objects.a @CMakeFiles\LAST_digit.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\LAST_digit.dir/objects.a -Wl,--no-whole-archive -o LAST_digit.exe -Wl,--out-implib,libLAST_digit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LAST_digit.dir\linklibs.rsp

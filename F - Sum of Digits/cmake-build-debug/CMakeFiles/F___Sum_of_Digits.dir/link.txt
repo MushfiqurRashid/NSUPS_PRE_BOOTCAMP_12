@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\F___Sum_of_Digits.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\F___Sum_of_Digits.dir/objects.a @CMakeFiles\F___Sum_of_Digits.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\F___Sum_of_Digits.dir/objects.a -Wl,--no-whole-archive -o F___Sum_of_Digits.exe -Wl,--out-implib,libF___Sum_of_Digits.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\F___Sum_of_Digits.dir\linklibs.rsp

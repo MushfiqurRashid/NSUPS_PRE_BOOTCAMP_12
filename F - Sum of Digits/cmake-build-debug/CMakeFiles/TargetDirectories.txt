@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/F - Sum of Digits/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/F - Sum of Digits/cmake-build-debug/CMakeFiles/F___Sum_of_Digits.dir
+F:/Pre Bootcamp 1/F - Sum of Digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
