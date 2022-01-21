@@ -1,0 +1,3 @@
+F:/Pre Bootcamp 1/I - 0 or 1 Swap/cmake-build-debug/CMakeFiles/I___0_or_1_Swap.dir
+F:/Pre Bootcamp 1/I - 0 or 1 Swap/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Pre Bootcamp 1/I - 0 or 1 Swap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
